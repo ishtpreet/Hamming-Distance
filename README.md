@@ -1,6 +1,6 @@
 # Hamming Distance
 <br />
-**Repl.it:** [Hamming Distance](https://repl.it/@ishtpreet/CleanDarkgreenNetworks#main.py)
+Repl.it: https://repl.it/@ishtpreet/CleanDarkgreenNetworks#main.py
 <br />
 
 The Hamming distance between two integers is the number of positions at which the corresponding bits are different.<br />
